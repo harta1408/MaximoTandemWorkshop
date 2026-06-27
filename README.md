@@ -67,7 +67,8 @@ After completing this workshop, participants will be able to:
 | 13:00 – 14:30 | Asset Management       |
 | 14:30 – 15:15 | Preventive Maintenance |
 | 15:15 – 15:30 | Coffee Break           |
-| 15:30 – 17:00 | Hands-on Lab 1         |
+| 15:15 – 16:30 | Hands-on Lab 1         |
+| 16:30 – 17:00 | QUIZ                   |
 
 ---
 
@@ -88,7 +89,8 @@ After completing this workshop, participants will be able to:
 | 13:00 – 14:00 | Inspections        |
 | 14:00 – 15:00 | Reporting and KPIs |
 | 15:00 – 15:15 | Coffee Break       |
-| 15:15 – 17:00 | Hands-on Lab 2     |
+| 15:15 – 16:30 | Hands-on Lab 2     |
+| 16:30 – 17:00 | QUIZ               |
 
 ---
 
@@ -107,12 +109,10 @@ After completing this workshop, participants will be able to:
 
 | Time          | Topic                                    |
 | ------------- | ---------------------------------------- |
-| 13:00 – 13:45 | Asset Information, Systems and Inventory |
-| 13:45 – 14:30 | Views, Documents and Tickets             |
-| 14:30 – 15:00 | Streams (IoT Overview)                   |
+| 13:00 – 14:00 | Tandem + APCO + Maximo Integration       | 
+| 14:00 – 15:00 | Digital Twin Demonstration               |
 | 15:00 – 15:15 | Coffee Break                             |
-| 15:15 – 16:15 | Autodesk Tandem + IBM Maximo Integration |
-| 16:15 – 17:00 | Digital Twin Demonstration & Q&A         |
+| 16:15 – 17:00 | QUIZ & Closing                           |
 
 ---
 
