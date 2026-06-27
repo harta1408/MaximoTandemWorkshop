@@ -2,7 +2,7 @@
 
 > **3-Day Hands-on Workshop**
 > Digital Twin Implementation for Operations & Maintenance
-> ** This Workshop Conduct for Otorita Ibu Kota Negara (OIKN)**
+> **This Workshop Conduct for Otorita Ibu Kota Negara (OIKN)**
 
 ---
 
