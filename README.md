@@ -68,7 +68,7 @@ After completing this workshop, participants will be able to:
 | 14:30 – 15:15 | Preventive Maintenance |
 | 15:15 – 15:30 | Coffee Break           |
 | 15:15 – 16:30 | Hands-on Lab 1         |
-| 16:30 – 17:00 | QUIZ                   |
+| 16:30 – 17:00 | <a href="https://app.sli.do/event/51eRodqnLqEjYXa4ofcUMQ">QUIZ</a>                   |
 
 ---
 
@@ -90,7 +90,7 @@ After completing this workshop, participants will be able to:
 | 14:00 – 15:00 | Reporting and KPIs |
 | 15:00 – 15:15 | Coffee Break       |
 | 15:15 – 16:30 | Hands-on Lab 2     |
-| 16:30 – 17:00 | QUIZ               |
+| 16:30 – 17:00 | <a href="https://app.sli.do/event/gwRZ4huQxm4YKkRRVShoep">QUIZ</a>                |
 
 ---
 
@@ -112,7 +112,7 @@ After completing this workshop, participants will be able to:
 | 13:00 – 14:00 | Tandem + APCO + Maximo Integration       | 
 | 14:00 – 15:00 | Digital Twin Demonstration               |
 | 15:00 – 15:15 | Coffee Break                             |
-| 16:15 – 17:00 | QUIZ & Closing                           |
+| 16:15 – 17:00 | <a href="https://app.sli.do/event/1oXeoqF5JG8r4Y5jFWEwHC">QUIZ</a>    & Closing                           |
 
 ---
 
