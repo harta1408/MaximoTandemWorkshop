@@ -67,7 +67,7 @@ After completing this workshop, participants will be able to:
 | 13:00 – 14:30 | Asset Management       |
 | 14:30 – 15:15 | Preventive Maintenance |
 | 15:15 – 15:30 | Coffee Break           |
-| 15:15 – 16:30 | Hands-on Lab 1         |
+| 15:15 – 16:30 | <a href="./labs/Lab1.pdf">Hands-on Lab 1</a>         |
 | 16:30 – 17:00 | <a href="https://app.sli.do/event/51eRodqnLqEjYXa4ofcUMQ">QUIZ</a>                   |
 
 ---
