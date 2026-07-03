@@ -66,7 +66,7 @@ After completing this workshop, participants will be able to:
 | ------------- | ---------------------- |
 | 13:00 – 14:30 | Inventory Management   |
 | 14:30 – 15:15 | <a href="./docs/day1/lab/Lab1-Getting_Started_With_Maximo.pdf">Lab 1 : Getting Started with Maximo</a>  |
-| 15:15 – 15:30 | Coffee Break           |
+| 15:15 – 15:30 | Break           |
 | 15:15 – 15:45 | <a href="./docs/day1/lab/Lab2-Administration.pdf">Lab 2 : Administration</a>  |
 | 15:45 – 16:45 | <a href="./docs/day1/lab/Lab3-Inventory_Management.pdf">Lab 3 : Inventory Management</a> |
 | 16:45 – 17:00 | <a href="https://app.sli.do/event/51eRodqnLqEjYXa4ofcUMQ">QUIZ</a>                   |
@@ -80,20 +80,23 @@ After completing this workshop, participants will be able to:
 | Time          | Topic            |
 | ------------- | ---------------- |
 | 09:00 – 09:30 | People Labor Craft |
-| 09:30 – 10:30 | Location and Asset |
-| 10:30 – 10:45 | Coffee Break     |
-| 10:45 – 11:30 | Work Order  |
-| 11:30 – 12:00 | <a href="./docs/day2/lab/Lab4-Work_Management1.pdf">Lab 4 : Work Management 1</a>  |
+| 09:30 – 10:15 | <a href="./docs/day2/lab/Lab4_People_Labor_Craft.pdf">Lab 4 : People Labor Craft</a> |
+| 10:15 – 10:30 | Coffee Break     |
+| 10:30 – 11:15 | Location and Asset |
+| 11:15 – 12:00 | <a href="./docs/day2/lab/Lab5_Location_Asset.pdf">Lab 5 : Location and Asset</a>  |
 
 ### Afternoon Session
 
 | Time          | Topic              |
 | ------------- | ------------------ |
-| 13:00 – 14:00 | Job Plan & PM    |
-| 14:00 – 15:00 | Preventive Maintenance | 
-| 15:00 – 15:15 | Coffee Break       |
-| 15:15 – 16:30 | <a href="./docs/day2/lab/Lab4-Work_Management2.pdf">Lab 5 : Work Management 2</a>  |
-| 16:30 – 17:00 | <a href="https://app.sli.do/event/gwRZ4huQxm4YKkRRVShoep">QUIZ</a>                |
+| 13:00 – 14:00 | Work Order  |
+| 14:00 – 14:30 | <a href="./docs/day2/lab/Lab6_Work_Order.pdf">Lab 6 : Work Order</a>  |
+| 14:30 – 15:00 | Job Plan & PM    |
+| 15:00 – 15:15 | Break       |
+| 15:15 – 16:00 | Preventive Maintenance | 
+| 16:15 – 16:30 | <a href="./docs/day2/lab/Lab7_Job_Plan_PM.pdf">Lab 7 : Job Plan</a> | 
+| 16:30 – 16:45 | <a href="./docs/day2/lab/Lab8_PM.pdf">Lab 8 : Preventive Maintenance</a>  |
+| 16:30 – 17:00 | <a href="https://app.sli.do/event/gwRZ4huQxm4YKkRRVShoep">QUIZ</a>        |
 
 ---
 
@@ -104,7 +107,7 @@ After completing this workshop, participants will be able to:
 | Time          | Topic                                     |
 | ------------- | ----------------------------------------- |
 | 09:00 – 10:00 | Corrective Maintenance |
-| 10:00 – 10:30 | <a href="./docs/day2/lab/Lab5_Work_Management2.pdf">Lab 5 : Work Management 2</a>     |
+| 10:00 – 10:30 | <a href="./docs/day2/lab/Lab9_CM.pdf">Lab 9 : Corrective Maintenance</a>     |
 | 10:30 – 10:45 | Coffee Break                              | 
 | 10:45 – 12:00 | Autodesk Tandem Overview                  |
  
@@ -172,19 +175,25 @@ Digital Twin
 ├── README.md
 ├── docs
 │   ├── day1
+│   │   └── lab
+│   │       ├── lab1_Getting_Started_With_Maximo.pdf
+│   │       ├── lab2_Administration.pdf
+│   │       └── lab3_Inventory_Management.pdf
 │   ├── day2
-│   ├── day3
-│   ├── workshop-guide.pdf
-│   └── architecture
-├── labs
-│   ├── lab01
-│   ├── lab02
-│   ├── lab03
-│   └── lab04
-├── slides
-├── images
-├── samples
+│   │   └── lab
+│   │       ├── Lab4_People_Labor_Craft.pdf
+│   │       ├── Lab5_Location_Asset.pdf
+│   │       ├── Lab6_Work_Order.pdf
+│   │       ├── Lab7_Job_Plan_PM.pdf
+│   │       └── Lab8_PM.pdf
+│   └── day3
+│       └── lab
+│           └── Lab8_PM.pdf
 └── resources
+   ├── 01_Maximo_EAM_Fundamentals.pdf
+   ├── 02_IBM_Maximo_Architecture.pdf
+   ├── 03_Maximo_Administration_Blueprint.pdf
+   ├── 04_Maximo_Inventory_Architecture.pdf
 ```
 
 ---
