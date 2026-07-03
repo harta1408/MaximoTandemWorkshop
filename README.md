@@ -55,7 +55,7 @@ After completing this workshop, participants will be able to:
 
 | Time          | Topic                                       |
 | ------------- | ------------------------------------------- |
-| 09:00 – 09:30 | Introduction to Enterprise Asset Management |
+| 09:00 – 09:30 | Enterprise Asset Management Fundamentals    |
 | 09:30 – 10:30 | IBM Maximo Architecture                     |
 | 10:30 – 10:45 | Coffee Break                                |
 | 10:45 – 12:00 | Organizations, Sites, Locations and Assets  |
@@ -64,11 +64,12 @@ After completing this workshop, participants will be able to:
 
 | Time          | Topic                  |
 | ------------- | ---------------------- |
-| 13:00 – 14:30 | Asset Management       |
-| 14:30 – 15:15 | Preventive Maintenance |
+| 13:00 – 14:30 | Inventory Management   |
+| 14:30 – 15:15 | <a href="./docs/day1/lab/Lab1-Getting_Started_With_Maximo.pdf">Lab 1 : Getting Started with Maximo</a>  |
 | 15:15 – 15:30 | Coffee Break           |
-| 15:15 – 16:30 | <a href="./labs/Lab1.pdf">Hands-on Lab 1</a> and <a href="./labs/Lab2.pdf">Lab 2</a>        |
-| 16:30 – 17:00 | <a href="https://app.sli.do/event/51eRodqnLqEjYXa4ofcUMQ">QUIZ</a>                   |
+| 15:15 – 15:45 | <a href="./docs/day1/lab/Lab2-Administration.pdf">Lab 2 : Administration</a>  |
+| 15:45 – 16:45 | <a href="./docs/day1/lab/Lab3-Inventory_Management.pdf">Lab 3 : Inventory Management</a> |
+| 16:45 – 17:00 | <a href="https://app.sli.do/event/51eRodqnLqEjYXa4ofcUMQ">QUIZ</a>                   |
 
 ---
 
@@ -78,18 +79,20 @@ After completing this workshop, participants will be able to:
 
 | Time          | Topic            |
 | ------------- | ---------------- |
-| 09:00 – 10:30 | Work Orders      |
+| 09:00 – 09:30 | People Labor Craft |
+| 09:30 – 10:30 | Location and Asset |
 | 10:30 – 10:45 | Coffee Break     |
-| 10:45 – 12:00 | Job Plans and PM |
+| 10:45 – 11:30 | Work Order  |
+| 11:30 – 12:00 | <a href="./docs/day2/lab/Lab4-Work_Management1.pdf"Lab 4 : Work Management 1</a>  |
 
 ### Afternoon Session
 
 | Time          | Topic              |
 | ------------- | ------------------ |
-| 13:00 – 14:00 | Inspections        |
-| 14:00 – 15:00 | Reporting and KPIs |
+| 13:00 – 14:00 | Job Plan & PM    |
+| 14:00 – 15:00 | Preventive Maintenance | 
 | 15:00 – 15:15 | Coffee Break       |
-| 15:15 – 16:30 | Hands-on Lab 2     |
+| 15:15 – 16:30 | <a href="./docs/day2/lab/Lab4-Work_Management2.pdf" Lab 5 : Work Management 2</a>  |
 | 16:30 – 17:00 | <a href="https://app.sli.do/event/gwRZ4huQxm4YKkRRVShoep">QUIZ</a>                |
 
 ---
@@ -100,18 +103,17 @@ After completing this workshop, participants will be able to:
 
 | Time          | Topic                                     |
 | ------------- | ----------------------------------------- |
-| 09:00 – 09:30 | Digital Twin for Operations & Maintenance |
-| 09:30 – 10:15 | Autodesk Tandem Overview                  |
-| 10:15 – 10:30 | Coffee Break                              |
-| 10:30 – 12:00 | Navigating Facilities and Assets          |
-
+| 09:00 – 10:00 | Corrective Maintenance |
+| 10:00 – 10:30 | <a href="./docs/day2/lab/Lab5_Work_Management2.pdf">Lab 5 : Work Management 2</a>     |
+| 10:30 – 10:45 | Coffee Break                              | 
+| 10:45 – 12:00 | Autodesk Tandem Overview                  |
+ 
 ### Afternoon Session
 
 | Time          | Topic                                    |
 | ------------- | ---------------------------------------- |
 | 13:00 – 14:00 | Tandem + APCO + Maximo Integration       | 
-| 14:00 – 15:00 | Digital Twin Demonstration               |
-| 15:00 – 15:15 | Coffee Break                             |
+| 14:00 – 15:00 | Digital Twin Demonstration               | 
 | 16:15 – 17:00 | <a href="https://app.sli.do/event/1oXeoqF5JG8r4Y5jFWEwHC">QUIZ</a>    & Closing                           |
 
 ---
