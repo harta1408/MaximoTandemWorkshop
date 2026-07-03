@@ -83,7 +83,7 @@ After completing this workshop, participants will be able to:
 | 09:30 – 10:30 | Location and Asset |
 | 10:30 – 10:45 | Coffee Break     |
 | 10:45 – 11:30 | Work Order  |
-| 11:30 – 12:00 | <a href="./docs/day2/lab/Lab4-Work_Management1.pdf"Lab 4 : Work Management 1</a>  |
+| 11:30 – 12:00 | <a href="./docs/day2/lab/Lab4-Work_Management1.pdf">Lab 4 : Work Management 1</a>  |
 
 ### Afternoon Session
 
@@ -92,7 +92,7 @@ After completing this workshop, participants will be able to:
 | 13:00 – 14:00 | Job Plan & PM    |
 | 14:00 – 15:00 | Preventive Maintenance | 
 | 15:00 – 15:15 | Coffee Break       |
-| 15:15 – 16:30 | <a href="./docs/day2/lab/Lab4-Work_Management2.pdf" Lab 5 : Work Management 2</a>  |
+| 15:15 – 16:30 | <a href="./docs/day2/lab/Lab4-Work_Management2.pdf">Lab 5 : Work Management 2</a>  |
 | 16:30 – 17:00 | <a href="https://app.sli.do/event/gwRZ4huQxm4YKkRRVShoep">QUIZ</a>                |
 
 ---
