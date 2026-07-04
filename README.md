@@ -121,52 +121,6 @@ After completing this workshop, participants will be able to:
 
 ---
 
-# Hands-on Labs
-
-## Lab 1
-
-IBM Maximo
-
-* Create Organization
-* Create Site
-* Create Location
-* Create Assets
-
----
-
-## Lab 2
-
-IBM Maximo
-
-* Create Preventive Maintenance
-* Generate Work Orders
-* Complete Work Orders
-
----
-
-## Lab 3
-
-Autodesk Tandem
-
-* Open Facility
-* Navigate the 3D Model
-* Locate Equipment
-* Review Asset Information
-* Save Views
-
----
-
-## Lab 4
-
-Digital Twin
-
-* Locate an Equipment in Autodesk Tandem
-* Find the same Asset in IBM Maximo
-* Review Asset Information
-* Create a Work Order
-* Discuss the Digital Twin workflow
-
----
 
 # Repository Structure
 
@@ -194,6 +148,13 @@ Digital Twin
    ├── 02_IBM_Maximo_Architecture.pdf
    ├── 03_Maximo_Administration_Blueprint.pdf
    ├── 04_Maximo_Inventory_Architecture.pdf
+   ├── 05_Agile_EMS_Architecture_Blueprint.pdf
+   ├── 06_Digital_Twin_Asset_Framework.pdf
+   ├── 07_Agile_Work_Management.pdf
+   ├── 08_Agile_Work_Automation_Blueprint.pdf
+   ├── 09_Agile_EMS_Operations_Playbook.pdf
+   ├── 10_Maximo_CM_Workflow.pdf
+   └── 11_CM_Workflow_Mastery.pdf
 ```
 
 ---
@@ -202,8 +163,7 @@ Digital Twin
 
 Participants should have access to:
 
-* IBM Maximo Manage
-* Autodesk Tandem
+* IBM Maximo 7.6.1.3
 * Modern Web Browser (Chrome or Edge)
 * PDF Reader
 
@@ -212,10 +172,8 @@ Participants should have access to:
 # Recommended Knowledge
 
 Basic understanding of:
-
 * Asset Management
-* Maintenance Processes
-* Facilities Management
+* Maintenance Processes 
 
 No Autodesk Revit or BIM modeling experience is required.
 
