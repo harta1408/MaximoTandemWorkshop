@@ -58,10 +58,10 @@ After completing this workshop, participants will be able to:
 | 4   | **Coffee Break**                                                                                      | Morning refreshment break.                                                                                                                                                  | 15 min   |
 | 5   | Inventory Management                                                                                  | Understand item master data, storerooms, inventory balances, inventory transactions, and the role of spare parts in maintenance operations.                                 | 90 min   |
 | 6   | **Lunch Break**                                                                                       | Midday break.                                                                                                                                                               | 60 min   |
-| 7   | <a href="./docs/day1/lab/Lab1-Getting_Started_With_Maximo.pdf">Lab 1: Getting Started with Maximo</a> | Become familiar with the Maximo user interface, navigation, applications, queries, and basic user operations.                                                               | 45 min   |
+| 7   | <a href="./labs/day1/Lab1_Getting_Started_With_Maximo.pdf">Lab 1: Getting Started with Maximo</a> | Become familiar with the Maximo user interface, navigation, applications, queries, and basic user operations.                                                               | 45 min   |
 | 8   | **Break**                                                                                             | Afternoon refreshment break.                                                                                                                                                | 15 min   |
-| 9   | <a href="./docs/day1/lab/Lab2-Administration.pdf">Lab 2: Administration</a>                           | Practice basic Maximo administration and configuration activities.                                                                                                          | 30 min   |
-| 10  | <a href="./docs/day1/lab/Lab3-Inventory_Management.pdf">Lab 3: Inventory Management</a>               | Practice inventory operations, including items, storerooms, balances, and inventory transactions.                                                                           | 60 min   |
+| 9   | <a href="./labs/day1/Lab2_Administration.pdf">Lab 2: Administration</a>                           | Practice basic Maximo administration and configuration activities.                                                                                                          | 30 min   |
+| 10  | <a href="./labs/day1/Lab3_Inventory_Management.pdf">Lab 3: Inventory Management</a>               | Practice inventory operations, including items, storerooms, balances, and inventory transactions.                                                                           | 60 min   |
 | 11  | <a href="https://app.sli.do/event/51eRodqnLqEjYXa4ofcUMQ">Day 1 Quiz</a>                              | Review and reinforce the key concepts covered during Day 1.                                                                                                                 | 15 min   |
 
 ### Day 1 Outcome
@@ -75,18 +75,18 @@ Participants understand the foundations of Enterprise Asset Management, the IBM 
 | No. | Topic                                                                                     | Objective                                                                                                                                | Duration |
 | --- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | 1   | People, Labor and Crafts                                                                  | Understand the relationship between People, Person Groups, Labor, Crafts, and Skills used to support maintenance planning and execution. | 30 min   |
-| 2   | <a href="./docs/day2/lab/Lab4_People_Labor_Craft.pdf">Lab 4: People, Labor and Crafts</a> | Configure maintenance resources and understand how labor and craft information is used in work management.                               | 45 min   |
+| 2   | <a href="./labs/day2/Lab4_People_Labor_Craft.pdf">Lab 4: People, Labor and Crafts</a> | Configure maintenance resources and understand how labor and craft information is used in work management.                               | 45 min   |
 | 3   | **Coffee Break**                                                                          | Morning refreshment break.                                                                                                               | 15 min   |
 | 4   | Locations and Assets                                                                      | Understand operational locations, asset records, asset hierarchies, classifications, specifications, and asset relationships.            | 45 min   |
-| 5   | <a href="./docs/day2/lab/Lab5_Location_Asset.pdf">Lab 5: Locations and Assets</a>         | Create and manage Locations and Assets and understand their relationship within the maintenance structure.                               | 45 min   |
+| 5   | <a href="./labs/day2/Lab5_Location_Asset.pdf">Lab 5: Locations and Assets</a>         | Create and manage Locations and Assets and understand their relationship within the maintenance structure.                               | 45 min   |
 | 6   | **Lunch Break**                                                                           | Midday break.                                                                                                                            | 60 min   |
 | 7   | Work Orders                                                                               | Understand the Work Order lifecycle, work planning, assignment, execution, status management, and maintenance history.                   | 60 min   |
-| 8   | <a href="./docs/day2/lab/Lab6_Work_Order.pdf">Lab 6: Work Order</a>                       | Create, plan, execute, and complete a maintenance Work Order.                                                                            | 30 min   |
+| 8   | <a href="./labs/day2/Lab6_Work_Order.pdf">Lab 6: Work Order</a>                       | Create, plan, execute, and complete a maintenance Work Order.                                                                            | 30 min   |
 | 9   | Job Plans and Preventive Maintenance                                                      | Understand how Job Plans standardize maintenance activities and how Preventive Maintenance records automate recurring maintenance.       | 30 min   |
 | 10  | **Break**                                                                                 | Afternoon refreshment break.                                                                                                             | 15 min   |
 | 11  | Preventive Maintenance                                                                    | Understand time-based maintenance, PM frequencies, scheduling, forecasting, and Work Order generation.                                   | 45 min   |
-| 12  | <a href="./docs/day2/lab/Lab7_Job_Plan_PM.pdf">Lab 7: Job Plan</a>                        | Create a reusable Job Plan containing maintenance tasks and required resources.                                                          | 15 min   |
-| 13  | <a href="./docs/day2/lab/Lab8_PM.pdf">Lab 8: Preventive Maintenance</a>                   | Create a PM record, associate a Job Plan, and generate a scheduled Work Order.                                                           | 15 min   |
+| 12  | <a href="./labs/day2/Lab7_Job_Plan_PM.pdf">Lab 7: Job Plan</a>                        | Create a reusable Job Plan containing maintenance tasks and required resources.                                                          | 15 min   |
+| 13  | <a href="./labs/day2/Lab8_PM.pdf">Lab 8: Preventive Maintenance</a>                   | Create a PM record, associate a Job Plan, and generate a scheduled Work Order.                                                           | 15 min   |
 | 14  | <a href="https://app.sli.do/event/gwRZ4huQxm4YKkRRVShoep">Day 2 Quiz</a>                  | Review and reinforce the maintenance management concepts covered during Day 2.                                                           | 30 min   |
 
 ### Day 2 Outcome
@@ -100,7 +100,7 @@ Participants can configure maintenance resources, manage Locations and Assets, c
 | No. | Topic                                                                                | Objective                                                                                                                                                                          | Duration |
 | --- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | 1   | Corrective Maintenance                                                               | Understand how unplanned events, failures, and abnormal asset conditions are managed through the corrective maintenance process in IBM Maximo.                                     | 60 min   |
-| 2   | <a href="./docs/day2/lab/Lab9_CM.pdf">Lab 9: Corrective Maintenance</a>              | Execute a corrective maintenance scenario from issue identification through Work Order creation and maintenance response.                                                          | 30 min   |
+| 2   | <a href="./labs/day2/Lab9_CM.pdf">Lab 9: Corrective Maintenance</a>              | Execute a corrective maintenance scenario from issue identification through Work Order creation and maintenance response.                                                          | 30 min   |
 | 3   | **Coffee Break**                                                                     | Morning refreshment break.                                                                                                                                                         | 15 min   |
 | 4   | Autodesk Tandem Overview                                                             | Understand Digital Twin concepts for Operations & Maintenance and become familiar with Autodesk Tandem facilities, assets, systems, inventory, views, and operational information. | 75 min   |
 | 5   | **Lunch Break**                                                                      | Midday break.                                                                                                                                                                      | 60 min   |
@@ -189,6 +189,21 @@ Participants understand how IBM Maximo can be extended with Digital Twin and IoT
    ├── 10_Maximo_CM_Workflow.pdf
    └── 11_CM_Workflow_Mastery.pdf
 ```
+---
+
+# Credential
+* Hotspot
+Access Poin : OIKN_MAXIMO_WORKSHOP
+Password    : nusantara 
+
+* IBM Maximo 7.6.1.3 
+IBM Maximo Address : <a href="http://192.168.0.100:9080/maximo">http://192.168.0.100:9080/maximo</a>
+User Name : nusa01 - nusa20
+Password  : nusantra
+
+Example :
+username : nusa01
+password : nusantara
 
 ---
 
@@ -217,6 +232,8 @@ No Autodesk Revit or BIM modeling experience is required.
 # Workshop Outcome
 
 At the end of the workshop, participants will understand how Autodesk Tandem and IBM Maximo complement each other to support modern Operations & Maintenance through an Operational Digital Twin.
+
+<a href="https://forms.gle/yCNj4WAFrurz6Gfe8">Give Us Feed Back</a>
 
 ---
 
