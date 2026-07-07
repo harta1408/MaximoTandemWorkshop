@@ -198,11 +198,11 @@ Password    : nusantara
 
 * IBM Maximo 7.6.1.3 
 IBM Maximo Address : <a href="http://192.168.0.100:9080/maximo">http://192.168.0.100:9080/maximo</a>
-User Name : nusa01 - nusa20
+User Name : NUSA01 - NUSA20
 Password  : Welcome@Nusantara1
 
 Contoh :
-username : nusa01
+username : NUSA01
 password : Welcome@Nusantara1
 
 ---
