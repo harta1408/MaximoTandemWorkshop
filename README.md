@@ -242,24 +242,7 @@ Basic understanding of:
 
 No Autodesk Revit or BIM modeling experience is required.
 
----
 
-#Condition
-```text
-* key main unit normal
-"AAAAAPRnfImujUZrrf2MG__UZcwAAA40", //main unit
-"AAAAAPRnfImujUZrrf2MG__UZcwAAA5V" //robot arm
-
-
-* key main unit warning
-"AAAAAPRnfImujUZrrf2MG__UZcwAAA40", //main unit
-"AAAAAPRnfImujUZrrf2MG__UZcwAAA5V" //robot arm
-
-* key main unit danger
-"AAAAAPRnfImujUZrrf2MG__UZcwAAA40", //main unit
-"AAAAAPRnfImujUZrrf2MG__UZcwAAA5V" //robot arm
-...
-__
 
 
 # Workshop Outcome
@@ -273,3 +256,27 @@ At the end of the workshop, participants will understand how Autodesk Tandem and
 **Prepared by**
 
 **PT. Anagile Kharisma Utama**
+
+
+---
+
+#Condition
+```text
+.
+* key main unit normal
+"AAAAAPRnfImujUZrrf2MG__UZcwAAA40", //main unit
+"AAAAAPRnfImujUZrrf2MG__UZcwAAA5V" //robot arm
+"muts" => array_fill(0, 2, ["i","n","!v","07 00 00"])
+
+
+* key main unit warning
+"AAAAAPRnfImujUZrrf2MG__UZcwAAA40", //main unit
+"AAAAAPRnfImujUZrrf2MG__UZcwAAA5V" //robot arm
+"muts" => array_fill(0, 2, ["i","n","!v","07 01 30"])
+
+* key main unit danger
+"AAAAAPRnfImujUZrrf2MG__UZcwAAA40", //main unit
+"AAAAAPRnfImujUZrrf2MG__UZcwAAA5V" //robot arm
+muts" => array_fill(0, 2, ["i","n","!v","07 01 20"])
+...
+__
