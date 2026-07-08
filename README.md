@@ -198,6 +198,7 @@ Password    : nusantara
 
 * IBM Maximo 7.6.1.3 
 IBM Maximo Address : <a href="http://192.168.0.100:9080/maximo">http://192.168.0.100:9080/maximo</a>
+
 User Name : NUSA01 - NUSA20
 Password  : Welcome@Nusantara1
 
@@ -214,6 +215,17 @@ Participants should have access to:
 * IBM Maximo 7.6.1.3
 * Modern Web Browser (Chrome or Edge)
 * PDF Reader
+
+---
+
+# Usefull Link  
+
+* <a href="https://help.autodesk.com/view/TANDEM/ENU/?guid=Tandem_About_about_tandem_html">Tandem Documentation</a>
+* <a href="https://aps.autodesk.com/en/docs/tandem/v1/developers_guide/basics/">Autodesk Teandem API Basic</a>
+* <a href="https://documenter.getpostman.com/view/15787353/2s9YXk2faD#701ee872-4725-4897-b9ca-6c140bfd3f57">Autodesk Teandem POSTMAN</a>
+* <a href="https://developer.ibm.com/apis/catalog/maximo--maximo-manage-rest-api/Introduction">Maximo Rest API</a>
+* <a href="https://www.postman.com/downloads/">POSTMAN Donwload</a>
+
 
 ---
 
