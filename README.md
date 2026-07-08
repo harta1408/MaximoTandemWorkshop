@@ -229,6 +229,7 @@ Participants should have access to:
 * Tandem clientID = "IZB7FPfMh7ussUj3zPBUWWT4JjDftloxPqYtYoKLnTdtGVbG";
 * Tandem $clientSecret = "cUB6Vi9Y8DxjIVjjEeuRlJ8AfqlOQhzRCuAITFCAI29TpgYj1Ir9gh31EGHCoc0G";
 * API Key Maximo ="i2th0bnotievdspgsp3eb4lu9b57akih5sanf70e"
+* ModelID ="urn:adsk.dtm:vKRXT5j1RcGMhFnqCHIMpw"
 
 ---
 
