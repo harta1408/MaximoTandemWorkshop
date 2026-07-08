@@ -226,6 +226,9 @@ Participants should have access to:
 * <a href="https://developer.ibm.com/apis/catalog/maximo--maximo-manage-rest-api/Introduction">Maximo Rest API</a>
 * <a href="https://www.postman.com/downloads/">POSTMAN Donwload</a>
 
+* Tandem clientID = "IZB7FPfMh7ussUj3zPBUWWT4JjDftloxPqYtYoKLnTdtGVbG";
+* Tandem $clientSecret = "cUB6Vi9Y8DxjIVjjEeuRlJ8AfqlOQhzRCuAITFCAI29TpgYj1Ir9gh31EGHCoc0G";
+* API Key Maximo ="i2th0bnotievdspgsp3eb4lu9b57akih5sanf70e"
 
 ---
 
