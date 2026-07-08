@@ -239,18 +239,18 @@ Participants should have access to:
 * key main unit normal
 "AAAAAPRnfImujUZrrf2MG__UZcwAAA40", //main unit
 "AAAAAPRnfImujUZrrf2MG__UZcwAAA5V" //robot arm
-"muts" => array_fill(0, 2, ["i","n","!v","07 00 00"])
+* "muts" => array_fill(0, 2, ["i","n","!v","07 00 00"])
 
 
 * key main unit warning
 "AAAAAPRnfImujUZrrf2MG__UZcwAAA40", //main unit
 "AAAAAPRnfImujUZrrf2MG__UZcwAAA5V" //robot arm
-"muts" => array_fill(0, 2, ["i","n","!v","07 01 30"])
+* "muts" => array_fill(0, 2, ["i","n","!v","07 01 30"])
 
 * key main unit danger
 "AAAAAPRnfImujUZrrf2MG__UZcwAAA40", //main unit
 "AAAAAPRnfImujUZrrf2MG__UZcwAAA5V" //robot arm
-muts" => array_fill(0, 2, ["i","n","!v","07 01 20"])
+*muts" => array_fill(0, 2, ["i","n","!v","07 01 20"])
 ...
 
 ---
