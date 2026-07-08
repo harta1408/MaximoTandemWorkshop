@@ -244,6 +244,23 @@ No Autodesk Revit or BIM modeling experience is required.
 
 ---
 
+#Condition
+```text
+* key main unit normal
+"AAAAAPRnfImujUZrrf2MG__UZcwAAA40", //main unit
+"AAAAAPRnfImujUZrrf2MG__UZcwAAA5V" //robot arm
+
+
+* key main unit warning
+"AAAAAPRnfImujUZrrf2MG__UZcwAAA40", //main unit
+"AAAAAPRnfImujUZrrf2MG__UZcwAAA5V" //robot arm
+
+* key main unit danger
+"AAAAAPRnfImujUZrrf2MG__UZcwAAA40", //main unit
+"AAAAAPRnfImujUZrrf2MG__UZcwAAA5V" //robot arm
+...
+__
+
 
 # Workshop Outcome
 
